@@ -1,0 +1,16 @@
+"doctor_id","doctor_name","specialization","department_name","total_appointments"
+8,Dr. Amina Yusuf,Pediatrician,Pediatrics,17
+7,Dr. James Kariuki,Cardiologist,Cardiology,17
+6,Dr. Fatima Omar,Emergency Physician,Emergency,17
+2,Dr. Mary James,Pediatrician,Pediatrics,17
+10,Dr. Grace Wanjiku,Dermatologist,Dermatology,17
+1,Dr. Ahmed Hassan,Cardiologist,Cardiology,17
+4,Dr. Sarah Ali,Dermatologist,Dermatology,17
+3,Dr. John Peter,General Physician,General Medicine,17
+5,Dr. David Mwangi,Orthopedic Surgeon,Orthopedics,17
+9,Dr. Peter Otieno,General Physician,General Medicine,17
+15,Dr. Daniel Maina,General Physician,General Medicine,16
+12,Dr. Lucy Njeri,Emergency Physician,Emergency,16
+13,Dr. Mohamed Abdi,Cardiologist,Cardiology,16
+11,Dr. Hassan Ibrahim,Orthopedic Surgeon,Orthopedics,16
+14,Dr. Esther Kamau,Pediatrician,Pediatrics,16

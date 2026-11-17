@@ -1,0 +1,201 @@
+"prescription_id","prescribed_date","patient_id","patient_name","medicine_name","category","dosage","frequency","duration_days","quantity"
+120,2028-04-20,20,Patient 20,Zinc Tablets,Supplements,"500 mg",Twice daily,3,10
+119,2028-04-13,19,Patient 19,Folic Acid,Supplements,"100 mg",Three times daily,12,29
+118,2028-04-06,18,Patient 18,Antiseptic Solution,First Aid,"250 mg",Once daily,11,28
+117,2028-03-30,17,Patient 17,Eye Drops,Eye Care,"500 mg",Twice daily,10,27
+116,2028-03-23,16,Patient 16,Clotrimazole Cream,Skin Care,"100 mg",Three times daily,9,26
+115,2028-03-16,15,Patient 15,Hydrocortisone Cream,Skin Care,"250 mg",Once daily,8,25
+114,2028-03-09,14,Patient 14,Multivitamins,Vitamins,"500 mg",Twice daily,7,24
+113,2028-03-02,13,Patient 13,Ranitidine,Gastric,"100 mg",Three times daily,6,23
+112,2028-02-24,12,Patient 12,Aspirin,Pain Relief,"250 mg",Once daily,5,22
+111,2028-02-17,11,Patient 11,Diclofenac,Pain Relief,"500 mg",Twice daily,4,21
+110,2028-02-10,10,Grace Wanjiku,Doxycycline,Antibiotic,"100 mg",Three times daily,3,20
+109,2028-02-03,9,Peter Otieno,Ciprofloxacin,Antibiotic,"250 mg",Once daily,12,19
+108,2028-01-27,8,Amina Yusuf,Iron Tablets,Supplements,"500 mg",Twice daily,11,18
+107,2028-01-20,7,James Kariuki,Calcium Tablets,Supplements,"100 mg",Three times daily,10,17
+106,2028-01-13,6,Fatima Omar,Vitamin D,Vitamins,"250 mg",Once daily,9,16
+105,2028-01-06,5,David Mwangi,Vitamin C,Vitamins,"500 mg",Twice daily,8,15
+104,2027-12-30,4,Sarah Ali,ORS,Rehydration,"100 mg",Three times daily,7,14
+103,2027-12-23,3,John Peter,Cough Syrup,Respiratory,"250 mg",Once daily,6,13
+102,2027-12-16,2,Mary James,Salbutamol,Respiratory,"500 mg",Twice daily,5,12
+101,2027-12-09,1,Ahmed Hassan,Losartan,Blood Pressure,"100 mg",Three times daily,4,11
+100,2027-12-02,100,Patient 100,Amlodipine,Blood Pressure,"250 mg",Once daily,3,10
+99,2027-11-25,99,Patient 99,Insulin,Diabetes,"500 mg",Twice daily,12,29
+98,2027-11-18,98,Patient 98,Metformin,Diabetes,"100 mg",Three times daily,11,28
+97,2027-11-11,97,Patient 97,Omeprazole,Gastric,"250 mg",Once daily,10,27
+96,2027-11-04,96,Patient 96,Loratadine,Antihistamine,"500 mg",Twice daily,9,26
+95,2027-10-28,95,Patient 95,Cetirizine,Antihistamine,"100 mg",Three times daily,8,25
+94,2027-10-21,94,Patient 94,Azithromycin,Antibiotic,"250 mg",Once daily,7,24
+93,2027-10-14,93,Patient 93,Amoxicillin,Antibiotic,"500 mg",Twice daily,6,23
+92,2027-10-07,92,Patient 92,Ibuprofen,Pain Relief,"100 mg",Three times daily,5,22
+91,2027-09-30,91,Patient 91,Paracetamol,Pain Relief,"250 mg",Once daily,4,21
+90,2027-09-23,90,Patient 90,Zinc Tablets,Supplements,"500 mg",Twice daily,3,20
+89,2027-09-16,89,Patient 89,Folic Acid,Supplements,"100 mg",Three times daily,12,19
+88,2027-09-09,88,Patient 88,Antiseptic Solution,First Aid,"250 mg",Once daily,11,18
+87,2027-09-02,87,Patient 87,Eye Drops,Eye Care,"500 mg",Twice daily,10,17
+86,2027-08-26,86,Patient 86,Clotrimazole Cream,Skin Care,"100 mg",Three times daily,9,16
+85,2027-08-19,85,Patient 85,Hydrocortisone Cream,Skin Care,"250 mg",Once daily,8,15
+84,2027-08-12,84,Patient 84,Multivitamins,Vitamins,"500 mg",Twice daily,7,14
+83,2027-08-05,83,Patient 83,Ranitidine,Gastric,"100 mg",Three times daily,6,13
+82,2027-07-29,82,Patient 82,Aspirin,Pain Relief,"250 mg",Once daily,5,12
+81,2027-07-22,81,Patient 81,Diclofenac,Pain Relief,"500 mg",Twice daily,4,11
+80,2027-07-15,80,Patient 80,Doxycycline,Antibiotic,"100 mg",Three times daily,3,10
+80,2027-07-15,80,Patient 80,Doxycycline,Antibiotic,"100 mg",Three times daily,3,10
+79,2027-07-08,79,Patient 79,Ciprofloxacin,Antibiotic,"250 mg",Once daily,12,29
+79,2027-07-08,79,Patient 79,Ciprofloxacin,Antibiotic,"250 mg",Once daily,12,29
+78,2027-07-01,78,Patient 78,Iron Tablets,Supplements,"500 mg",Twice daily,11,28
+78,2027-07-01,78,Patient 78,Iron Tablets,Supplements,"500 mg",Twice daily,11,28
+77,2027-06-24,77,Patient 77,Calcium Tablets,Supplements,"100 mg",Three times daily,10,27
+77,2027-06-24,77,Patient 77,Calcium Tablets,Supplements,"100 mg",Three times daily,10,27
+76,2027-06-17,76,Patient 76,Vitamin D,Vitamins,"250 mg",Once daily,9,26
+76,2027-06-17,76,Patient 76,Vitamin D,Vitamins,"250 mg",Once daily,9,26
+75,2027-06-10,75,Patient 75,Vitamin C,Vitamins,"500 mg",Twice daily,8,25
+75,2027-06-10,75,Patient 75,Vitamin C,Vitamins,"500 mg",Twice daily,8,25
+74,2027-06-03,74,Patient 74,ORS,Rehydration,"100 mg",Three times daily,7,24
+74,2027-06-03,74,Patient 74,ORS,Rehydration,"100 mg",Three times daily,7,24
+73,2027-05-27,73,Patient 73,Cough Syrup,Respiratory,"250 mg",Once daily,6,23
+73,2027-05-27,73,Patient 73,Cough Syrup,Respiratory,"250 mg",Once daily,6,23
+72,2027-05-20,72,Patient 72,Salbutamol,Respiratory,"500 mg",Twice daily,5,22
+72,2027-05-20,72,Patient 72,Salbutamol,Respiratory,"500 mg",Twice daily,5,22
+71,2027-05-13,71,Patient 71,Losartan,Blood Pressure,"100 mg",Three times daily,4,21
+71,2027-05-13,71,Patient 71,Losartan,Blood Pressure,"100 mg",Three times daily,4,21
+70,2027-05-06,70,Patient 70,Amlodipine,Blood Pressure,"250 mg",Once daily,3,20
+70,2027-05-06,70,Patient 70,Amlodipine,Blood Pressure,"250 mg",Once daily,3,20
+69,2027-04-29,69,Patient 69,Insulin,Diabetes,"500 mg",Twice daily,12,19
+69,2027-04-29,69,Patient 69,Insulin,Diabetes,"500 mg",Twice daily,12,19
+68,2027-04-22,68,Patient 68,Metformin,Diabetes,"100 mg",Three times daily,11,18
+68,2027-04-22,68,Patient 68,Metformin,Diabetes,"100 mg",Three times daily,11,18
+67,2027-04-15,67,Patient 67,Omeprazole,Gastric,"250 mg",Once daily,10,17
+67,2027-04-15,67,Patient 67,Omeprazole,Gastric,"250 mg",Once daily,10,17
+66,2027-04-08,66,Patient 66,Loratadine,Antihistamine,"500 mg",Twice daily,9,16
+66,2027-04-08,66,Patient 66,Loratadine,Antihistamine,"500 mg",Twice daily,9,16
+65,2027-04-01,65,Patient 65,Cetirizine,Antihistamine,"100 mg",Three times daily,8,15
+65,2027-04-01,65,Patient 65,Cetirizine,Antihistamine,"100 mg",Three times daily,8,15
+64,2027-03-25,64,Patient 64,Azithromycin,Antibiotic,"250 mg",Once daily,7,14
+64,2027-03-25,64,Patient 64,Azithromycin,Antibiotic,"250 mg",Once daily,7,14
+63,2027-03-18,63,Patient 63,Amoxicillin,Antibiotic,"500 mg",Twice daily,6,13
+63,2027-03-18,63,Patient 63,Amoxicillin,Antibiotic,"500 mg",Twice daily,6,13
+62,2027-03-11,62,Patient 62,Ibuprofen,Pain Relief,"100 mg",Three times daily,5,12
+62,2027-03-11,62,Patient 62,Ibuprofen,Pain Relief,"100 mg",Three times daily,5,12
+61,2027-03-04,61,Patient 61,Paracetamol,Pain Relief,"250 mg",Once daily,4,11
+61,2027-03-04,61,Patient 61,Paracetamol,Pain Relief,"250 mg",Once daily,4,11
+60,2027-02-25,60,Patient 60,Zinc Tablets,Supplements,"500 mg",Twice daily,3,10
+60,2027-02-25,60,Patient 60,Zinc Tablets,Supplements,"500 mg",Twice daily,3,10
+59,2027-02-18,59,Patient 59,Folic Acid,Supplements,"100 mg",Three times daily,12,29
+59,2027-02-18,59,Patient 59,Folic Acid,Supplements,"100 mg",Three times daily,12,29
+58,2027-02-11,58,Patient 58,Antiseptic Solution,First Aid,"250 mg",Once daily,11,28
+58,2027-02-11,58,Patient 58,Antiseptic Solution,First Aid,"250 mg",Once daily,11,28
+57,2027-02-04,57,Patient 57,Eye Drops,Eye Care,"500 mg",Twice daily,10,27
+57,2027-02-04,57,Patient 57,Eye Drops,Eye Care,"500 mg",Twice daily,10,27
+56,2027-01-28,56,Patient 56,Clotrimazole Cream,Skin Care,"100 mg",Three times daily,9,26
+56,2027-01-28,56,Patient 56,Clotrimazole Cream,Skin Care,"100 mg",Three times daily,9,26
+55,2027-01-21,55,Patient 55,Hydrocortisone Cream,Skin Care,"250 mg",Once daily,8,25
+55,2027-01-21,55,Patient 55,Hydrocortisone Cream,Skin Care,"250 mg",Once daily,8,25
+54,2027-01-14,54,Patient 54,Multivitamins,Vitamins,"500 mg",Twice daily,7,24
+54,2027-01-14,54,Patient 54,Multivitamins,Vitamins,"500 mg",Twice daily,7,24
+53,2027-01-07,53,Patient 53,Ranitidine,Gastric,"100 mg",Three times daily,6,23
+53,2027-01-07,53,Patient 53,Ranitidine,Gastric,"100 mg",Three times daily,6,23
+52,2026-12-31,52,Patient 52,Aspirin,Pain Relief,"250 mg",Once daily,5,22
+52,2026-12-31,52,Patient 52,Aspirin,Pain Relief,"250 mg",Once daily,5,22
+51,2026-12-24,51,Patient 51,Diclofenac,Pain Relief,"500 mg",Twice daily,4,21
+51,2026-12-24,51,Patient 51,Diclofenac,Pain Relief,"500 mg",Twice daily,4,21
+50,2026-12-17,50,Patient 50,Doxycycline,Antibiotic,"100 mg",Three times daily,3,20
+50,2026-12-17,50,Patient 50,Doxycycline,Antibiotic,"100 mg",Three times daily,3,20
+49,2026-12-10,49,Patient 49,Ciprofloxacin,Antibiotic,"250 mg",Once daily,12,19
+49,2026-12-10,49,Patient 49,Ciprofloxacin,Antibiotic,"250 mg",Once daily,12,19
+48,2026-12-03,48,Patient 48,Iron Tablets,Supplements,"500 mg",Twice daily,11,18
+48,2026-12-03,48,Patient 48,Iron Tablets,Supplements,"500 mg",Twice daily,11,18
+47,2026-11-26,47,Patient 47,Calcium Tablets,Supplements,"100 mg",Three times daily,10,17
+47,2026-11-26,47,Patient 47,Calcium Tablets,Supplements,"100 mg",Three times daily,10,17
+46,2026-11-19,46,Patient 46,Vitamin D,Vitamins,"250 mg",Once daily,9,16
+46,2026-11-19,46,Patient 46,Vitamin D,Vitamins,"250 mg",Once daily,9,16
+45,2026-11-12,45,Patient 45,Vitamin C,Vitamins,"500 mg",Twice daily,8,15
+45,2026-11-12,45,Patient 45,Vitamin C,Vitamins,"500 mg",Twice daily,8,15
+44,2026-11-05,44,Patient 44,ORS,Rehydration,"100 mg",Three times daily,7,14
+44,2026-11-05,44,Patient 44,ORS,Rehydration,"100 mg",Three times daily,7,14
+43,2026-10-29,43,Patient 43,Cough Syrup,Respiratory,"250 mg",Once daily,6,13
+43,2026-10-29,43,Patient 43,Cough Syrup,Respiratory,"250 mg",Once daily,6,13
+42,2026-10-22,42,Patient 42,Salbutamol,Respiratory,"500 mg",Twice daily,5,12
+42,2026-10-22,42,Patient 42,Salbutamol,Respiratory,"500 mg",Twice daily,5,12
+41,2026-10-15,41,Patient 41,Losartan,Blood Pressure,"100 mg",Three times daily,4,11
+41,2026-10-15,41,Patient 41,Losartan,Blood Pressure,"100 mg",Three times daily,4,11
+40,2026-10-08,40,Patient 40,Amlodipine,Blood Pressure,"250 mg",Once daily,3,10
+40,2026-10-08,40,Patient 40,Amlodipine,Blood Pressure,"250 mg",Once daily,3,10
+39,2026-10-01,39,Patient 39,Insulin,Diabetes,"500 mg",Twice daily,12,29
+39,2026-10-01,39,Patient 39,Insulin,Diabetes,"500 mg",Twice daily,12,29
+38,2026-09-24,38,Patient 38,Metformin,Diabetes,"100 mg",Three times daily,11,28
+38,2026-09-24,38,Patient 38,Metformin,Diabetes,"100 mg",Three times daily,11,28
+37,2026-09-17,37,Patient 37,Omeprazole,Gastric,"250 mg",Once daily,10,27
+37,2026-09-17,37,Patient 37,Omeprazole,Gastric,"250 mg",Once daily,10,27
+36,2026-09-10,36,Patient 36,Loratadine,Antihistamine,"500 mg",Twice daily,9,26
+36,2026-09-10,36,Patient 36,Loratadine,Antihistamine,"500 mg",Twice daily,9,26
+35,2026-09-03,35,Patient 35,Cetirizine,Antihistamine,"100 mg",Three times daily,8,25
+35,2026-09-03,35,Patient 35,Cetirizine,Antihistamine,"100 mg",Three times daily,8,25
+34,2026-08-27,34,Patient 34,Azithromycin,Antibiotic,"250 mg",Once daily,7,24
+34,2026-08-27,34,Patient 34,Azithromycin,Antibiotic,"250 mg",Once daily,7,24
+33,2026-08-20,33,Patient 33,Amoxicillin,Antibiotic,"500 mg",Twice daily,6,23
+33,2026-08-20,33,Patient 33,Amoxicillin,Antibiotic,"500 mg",Twice daily,6,23
+32,2026-08-13,32,Patient 32,Ibuprofen,Pain Relief,"100 mg",Three times daily,5,22
+32,2026-08-13,32,Patient 32,Ibuprofen,Pain Relief,"100 mg",Three times daily,5,22
+31,2026-08-06,31,Patient 31,Paracetamol,Pain Relief,"250 mg",Once daily,4,21
+31,2026-08-06,31,Patient 31,Paracetamol,Pain Relief,"250 mg",Once daily,4,21
+30,2026-07-30,30,Patient 30,Zinc Tablets,Supplements,"500 mg",Twice daily,3,20
+30,2026-07-30,30,Patient 30,Zinc Tablets,Supplements,"500 mg",Twice daily,3,20
+29,2026-07-23,29,Patient 29,Folic Acid,Supplements,"100 mg",Three times daily,12,19
+29,2026-07-23,29,Patient 29,Folic Acid,Supplements,"100 mg",Three times daily,12,19
+28,2026-07-16,28,Patient 28,Antiseptic Solution,First Aid,"250 mg",Once daily,11,18
+28,2026-07-16,28,Patient 28,Antiseptic Solution,First Aid,"250 mg",Once daily,11,18
+27,2026-07-09,27,Patient 27,Eye Drops,Eye Care,"500 mg",Twice daily,10,17
+27,2026-07-09,27,Patient 27,Eye Drops,Eye Care,"500 mg",Twice daily,10,17
+26,2026-07-02,26,Patient 26,Clotrimazole Cream,Skin Care,"100 mg",Three times daily,9,16
+26,2026-07-02,26,Patient 26,Clotrimazole Cream,Skin Care,"100 mg",Three times daily,9,16
+25,2026-06-25,25,Patient 25,Hydrocortisone Cream,Skin Care,"250 mg",Once daily,8,15
+25,2026-06-25,25,Patient 25,Hydrocortisone Cream,Skin Care,"250 mg",Once daily,8,15
+24,2026-06-18,24,Patient 24,Multivitamins,Vitamins,"500 mg",Twice daily,7,14
+24,2026-06-18,24,Patient 24,Multivitamins,Vitamins,"500 mg",Twice daily,7,14
+23,2026-06-11,23,Patient 23,Ranitidine,Gastric,"100 mg",Three times daily,6,13
+23,2026-06-11,23,Patient 23,Ranitidine,Gastric,"100 mg",Three times daily,6,13
+22,2026-06-04,22,Patient 22,Aspirin,Pain Relief,"250 mg",Once daily,5,12
+22,2026-06-04,22,Patient 22,Aspirin,Pain Relief,"250 mg",Once daily,5,12
+21,2026-05-28,21,Patient 21,Diclofenac,Pain Relief,"500 mg",Twice daily,4,11
+21,2026-05-28,21,Patient 21,Diclofenac,Pain Relief,"500 mg",Twice daily,4,11
+20,2026-05-21,20,Patient 20,Doxycycline,Antibiotic,"100 mg",Three times daily,3,10
+20,2026-05-21,20,Patient 20,Doxycycline,Antibiotic,"100 mg",Three times daily,3,10
+19,2026-05-14,19,Patient 19,Ciprofloxacin,Antibiotic,"250 mg",Once daily,12,29
+19,2026-05-14,19,Patient 19,Ciprofloxacin,Antibiotic,"250 mg",Once daily,12,29
+18,2026-05-07,18,Patient 18,Iron Tablets,Supplements,"500 mg",Twice daily,11,28
+18,2026-05-07,18,Patient 18,Iron Tablets,Supplements,"500 mg",Twice daily,11,28
+17,2026-04-30,17,Patient 17,Calcium Tablets,Supplements,"100 mg",Three times daily,10,27
+17,2026-04-30,17,Patient 17,Calcium Tablets,Supplements,"100 mg",Three times daily,10,27
+16,2026-04-23,16,Patient 16,Vitamin D,Vitamins,"250 mg",Once daily,9,26
+16,2026-04-23,16,Patient 16,Vitamin D,Vitamins,"250 mg",Once daily,9,26
+15,2026-04-16,15,Patient 15,Vitamin C,Vitamins,"500 mg",Twice daily,8,25
+15,2026-04-16,15,Patient 15,Vitamin C,Vitamins,"500 mg",Twice daily,8,25
+14,2026-04-09,14,Patient 14,ORS,Rehydration,"100 mg",Three times daily,7,24
+14,2026-04-09,14,Patient 14,ORS,Rehydration,"100 mg",Three times daily,7,24
+13,2026-04-02,13,Patient 13,Cough Syrup,Respiratory,"250 mg",Once daily,6,23
+13,2026-04-02,13,Patient 13,Cough Syrup,Respiratory,"250 mg",Once daily,6,23
+12,2026-03-26,12,Patient 12,Salbutamol,Respiratory,"500 mg",Twice daily,5,22
+12,2026-03-26,12,Patient 12,Salbutamol,Respiratory,"500 mg",Twice daily,5,22
+11,2026-03-19,11,Patient 11,Losartan,Blood Pressure,"100 mg",Three times daily,4,21
+11,2026-03-19,11,Patient 11,Losartan,Blood Pressure,"100 mg",Three times daily,4,21
+10,2026-03-12,10,Grace Wanjiku,Amlodipine,Blood Pressure,"250 mg",Once daily,3,20
+10,2026-03-12,10,Grace Wanjiku,Amlodipine,Blood Pressure,"250 mg",Once daily,3,20
+9,2026-03-05,9,Peter Otieno,Insulin,Diabetes,"500 mg",Twice daily,12,19
+9,2026-03-05,9,Peter Otieno,Insulin,Diabetes,"500 mg",Twice daily,12,19
+8,2026-02-26,8,Amina Yusuf,Metformin,Diabetes,"100 mg",Three times daily,11,18
+8,2026-02-26,8,Amina Yusuf,Metformin,Diabetes,"100 mg",Three times daily,11,18
+7,2026-02-19,7,James Kariuki,Omeprazole,Gastric,"250 mg",Once daily,10,17
+7,2026-02-19,7,James Kariuki,Omeprazole,Gastric,"250 mg",Once daily,10,17
+6,2026-02-12,6,Fatima Omar,Loratadine,Antihistamine,"500 mg",Twice daily,9,16
+6,2026-02-12,6,Fatima Omar,Loratadine,Antihistamine,"500 mg",Twice daily,9,16
+5,2026-02-05,5,David Mwangi,Cetirizine,Antihistamine,"100 mg",Three times daily,8,15
+5,2026-02-05,5,David Mwangi,Cetirizine,Antihistamine,"100 mg",Three times daily,8,15
+4,2026-01-29,4,Sarah Ali,Azithromycin,Antibiotic,"250 mg",Once daily,7,14
+4,2026-01-29,4,Sarah Ali,Azithromycin,Antibiotic,"250 mg",Once daily,7,14
+3,2026-01-22,3,John Peter,Amoxicillin,Antibiotic,"500 mg",Twice daily,6,13
+3,2026-01-22,3,John Peter,Amoxicillin,Antibiotic,"500 mg",Twice daily,6,13
+2,2026-01-15,2,Mary James,Ibuprofen,Pain Relief,"100 mg",Three times daily,5,12
+2,2026-01-15,2,Mary James,Ibuprofen,Pain Relief,"100 mg",Three times daily,5,12
+1,2026-01-08,1,Ahmed Hassan,Paracetamol,Pain Relief,"250 mg",Once daily,4,11
+1,2026-01-08,1,Ahmed Hassan,Paracetamol,Pain Relief,"250 mg",Once daily,4,11
